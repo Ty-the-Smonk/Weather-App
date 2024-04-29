@@ -22,7 +22,7 @@ namespace Weather_App_GUI
 
         private async void btnGet_Click(object sender, EventArgs e)
         {
-            string apiKey = Environment.GetEnvironmentVariable("OPENWEATHER_API_KEY", EnvironmentVariableTarget.User);
+            string apiKey = ApiKeyConfig.OpenWeatherApiKey;
             string zipCode = "19508";  // This could be dynamically set from a user input for more flexibility
             if (String.IsNullOrEmpty(apiKey))
             {

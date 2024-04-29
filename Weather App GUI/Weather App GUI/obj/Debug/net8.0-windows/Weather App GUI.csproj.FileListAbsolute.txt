@@ -17,23 +17,3 @@ C:\Users\Harrison\Source\Repos\Weather App GUI\Weather App GUI\obj\Debug\net8.0-
 C:\Users\Harrison\Source\Repos\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.pdb
 C:\Users\Harrison\Source\Repos\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.genruntimeconfig.cache
 C:\Users\Harrison\Source\Repos\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\ref\Weather App GUI.dll
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.csproj.AssemblyReference.cache
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather_App_GUI.Form1.resources
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.csproj.GenerateResource.cache
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.AssemblyInfoInputs.cache
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.AssemblyInfo.cs
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.csproj.CoreCompileInputs.cache
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.sourcelink.json
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.dll
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\refint\Weather App GUI.dll
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.pdb
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\Weather App GUI.exe
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\Weather App GUI.deps.json
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\Weather App GUI.runtimeconfig.json
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\Weather App GUI.dll
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\Weather App GUI.pdb
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather .C807427C.Up2Date
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.genruntimeconfig.cache
-C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\ref\Weather App GUI.dll

@@ -6,3 +6,4 @@
 /.vs/Weather-App/v17
 /Weather App GUI/Weather App GUI/appsettings.json
 /Weather App GUI/Weather App GUI/ApiKeyConfig.cs
+/Weather App GUI/Weather App GUI/bin/Debug/net8.0-windows/logs

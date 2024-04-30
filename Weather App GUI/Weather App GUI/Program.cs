@@ -1,17 +1,30 @@
+using Serilog;
+
+
 namespace Weather_App_GUI
 {
     internal static class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
-        [STAThread]
+    [STAThread]
         static void Main()
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
+            Log.Logger = new LoggerConfiguration()
+                .MinimumLevel.Debug()
+                .WriteTo.File(path: "logs\\myapp.txt", rollingInterval: RollingInterval.Day,
+            fileSizeLimitBytes: 10_485_760,    // 10 MB size limit
+            rollOnFileSizeLimit: true, retainedFileCountLimit: 7)  // Retain last 7 files
+                .CreateLogger();
             ApplicationConfiguration.Initialize();
+            Log.Information("Application is starting.");
+            Application.ApplicationExit += new EventHandler(OnApplicationExit);
             Application.Run(new Form1());
         }
+
+        private static void OnApplicationExit(object sender, EventArgs e)
+        {
+            // Flush and close the Serilog logger
+            Log.CloseAndFlush();
+        }
+
     }
 }

@@ -37,3 +37,16 @@ C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\D
 C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather .C807427C.Up2Date
 C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\Weather App GUI.genruntimeconfig.cache
 C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\obj\Debug\net8.0-windows\ref\Weather App GUI.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\NUnit3.TestAdapter.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\NUnit3.TestAdapter.pdb
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\nunit.engine.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\nunit.engine.api.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\nunit.engine.core.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\testcentric.engine.metadata.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\Moq.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\nunit.framework.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\nunit.framework.legacy.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\Serilog.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\Serilog.Sinks.File.dll
+C:\Users\Harrison\Source\Repos\Weather-App\Weather App GUI\Weather App GUI\bin\Debug\net8.0-windows\Serilog.Sinks.RollingFile.dll

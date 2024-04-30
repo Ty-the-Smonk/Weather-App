@@ -4,6 +4,8 @@ using System.Windows.Forms;
 using Weather_App_GUI.DataAccess;
 using Weather_App_GUI.Logic;
 using System.Net.Http;
+using Serilog;
+
 
 namespace Weather_App_GUI
 {
@@ -14,6 +16,7 @@ namespace Weather_App_GUI
 
         public Form1()
         {
+            Log.Information("Form1 initialized successfully.");
             InitializeComponent();
             HttpClient client = new HttpClient();
             _weatherService = new WeatherService(client);
@@ -22,6 +25,7 @@ namespace Weather_App_GUI
 
         private async void btnGet_Click(object sender, EventArgs e)
         {
+            Log.Debug("Fetch weather button clicked.");
             string apiKey = ApiKeyConfig.OpenWeatherApiKey;
             string zipCode = "19508";  // This could be dynamically set from a user input for more flexibility
             if (String.IsNullOrEmpty(apiKey))
@@ -33,14 +37,19 @@ namespace Weather_App_GUI
             string jsonResponse = await _weatherService.FetchWeatherData(zipCode, apiKey);
             if (jsonResponse != null)
             {
+                Log.Information("Fetching weather data.");
                 string weatherInfo = _weatherProcessor.ProcessWeatherData(jsonResponse);
                 lblWeather.Text = weatherInfo;
+                Log.Information("Weather data fetched successfully.");
             }
             else
             {
+                Log.Error("Failed to fetch weather data.");
                 MessageBox.Show("Failed to fetch weather data.");
             }
+
         }
+
     }
 
 }
